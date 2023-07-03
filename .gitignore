@@ -1,0 +1,4 @@
+data-jsonl
+.idea
+app/target/**
+app/project/target/**
